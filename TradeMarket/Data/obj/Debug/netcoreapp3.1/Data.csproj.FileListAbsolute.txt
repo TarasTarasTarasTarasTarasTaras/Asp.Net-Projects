@@ -1,0 +1,13 @@
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Programming\epam .net training\task web api PL\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Programming\epam .net training\task web api PL\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Programming\epam .net training\task web api PL\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Programming\epam .net training\task web api PL\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Programming\epam .net training\task web api PL\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Programming\epam .net training\task web api PL\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

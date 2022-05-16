@@ -1,0 +1,13 @@
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Programming\epam .net training\task web api PL\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Programming\epam .net training\task web api PL\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Programming\epam .net training\task web api PL\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Programming\epam .net training\task web api PL\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Programming\epam .net training\task web api PL\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Programming\epam .net training\task web api PL\Business\obj\Debug\netcoreapp3.1\Business.pdb
